@@ -1,4 +1,4 @@
-package com.yazuo.intelligent.bootstrap;
+package com.zero.scvzerng.bootstrap;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
